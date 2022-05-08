@@ -3,9 +3,10 @@ Repositorio de solución al reto 4 del Co-Afina.
 
 # PROYECTO
 
-## Title: Carl Sagan Verificador
+## Carl Sagan Verificador
 
 ## Objetivo: Dar un número de confiabilidad (+ Plots) para @divulgador_medico
+
 Para lograr esto se necesitan los siguientes pasos:
 1. Extracción
     1. Conectar y autenticar con API
